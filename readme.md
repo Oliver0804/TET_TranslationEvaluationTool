@@ -83,6 +83,7 @@ print(f"ROUGE-L Precision (ROUGE-L 精確度): {rouge_scores['rouge_l/p_score']}
 print(f"ROUGE-L Recall (ROUGE-L 召回率): {rouge_scores['rouge_l/r_score']}")
 ```
 
+![截圖 2024-08-25 凌晨1 23 02](https://github.com/user-attachments/assets/8c065d18-cd48-4a36-aa96-172741d40b57)
 
 ## 說明各個指標的效果
 
