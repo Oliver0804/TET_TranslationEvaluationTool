@@ -121,12 +121,3 @@ ROUGE-L Precision (ROUGE-L 精確度): 衡量翻譯結果中有多少 LCS 與參
 
 ROUGE-L Recall (ROUGE-L 召回率): 衡量參考語料庫中有多少 LCS 被翻譯結果覆蓋。
 
-
-
-
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin git@github.com:Oliver0804/TET_TranslationEvaluationTool.git
-git push -u origin main
